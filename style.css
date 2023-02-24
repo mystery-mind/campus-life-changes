@@ -1,0 +1,36 @@
+.video{
+    width:100%;
+    height:700px;
+    border: none;
+}
+.travel_mainDiv{
+    border:1px solid lightgrey;
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin:20px;
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    text-shadow: 2px 2px rgb(194, 121, 209);
+}
+.movie_headi {
+    float:right;
+}
+.achievement_text span{
+    color:orange;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text img{
+   width:100%;
+}
+#achievements{
+    text-shadow: 2px 2px rgb(121, 152, 209);  
+}
